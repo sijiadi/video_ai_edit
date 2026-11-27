@@ -1,0 +1,17 @@
+{
+  "script": "/path/to/your/script.txt",
+  "videos": [
+    "/path/to/your/fragment_1.MOV",
+    "/path/to/your/fragment_2.MOV"
+  ],
+  "out_dir": "/path/to/your/output",
+  "complete_source": "",
+  "words_model": "medium",
+  "no_face": false,
+  "no_cover": true,
+  "no_subs": true,
+  "title_rows": [],
+  "text_fixes": {
+    "卡主": "卡住"
+  }
+}
